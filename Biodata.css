@@ -12,3 +12,8 @@ img{
 .sedang{
     margin-left: auto;
 }
+
+body{
+    
+    background-image: url(diagonal_striped_brick.png);
+}
